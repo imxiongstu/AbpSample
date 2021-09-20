@@ -1,0 +1,12 @@
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\bin\Debug\net5.0\BookStore.Domain.deps.json
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\bin\Debug\net5.0\BookStore.Domain.dll
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\bin\Debug\net5.0\ref\BookStore.Domain.dll
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\bin\Debug\net5.0\BookStore.Domain.pdb
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\BookStore.Domain.AssemblyInfoInputs.cache
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\BookStore.Domain.AssemblyInfo.cs
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\BookStore.Domain.csproj.CoreCompileInputs.cache
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\BookStore.Domain.dll
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\ref\BookStore.Domain.dll
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\BookStore.Domain.pdb
+F:\DotNetProject\Test\BookStore.Api\BookStore.Domain\obj\Debug\net5.0\BookStore.Domain.csproj.AssemblyReference.cache
